@@ -1,3 +1,4 @@
+@charset "UTF-8";
 
 html{
   font-family: 'Open Sans',sans-serif;
@@ -78,10 +79,6 @@ hr{
   font-size: 15px !important;
   font-weight: bold !important;
   font-family: 'Cutive Mono',monospace;
-}
-#school,#email,#year,#education,#more-about,#telephone,{
-  color: #555;
-  font-size: 13.5px;
 }
 strong,span{
   color: black;
